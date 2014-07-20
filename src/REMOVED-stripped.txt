@@ -1,0 +1,824 @@
+removed directory: `chrome/test/data/safe_browsing/old/updates'
+removed directory: `chrome/test/data/safe_browsing/old'
+removed `chrome/test/data/firefox2_nss_mac/README'
+removed `chrome/test/data/firefox2_nss_mac/libplc4.dylib'
+removed `chrome/test/data/firefox2_nss_mac/libnss3.dylib'
+removed `chrome/test/data/firefox2_nss_mac/libnspr4.dylib'
+removed `chrome/test/data/firefox2_nss_mac/libplds4.dylib'
+removed `chrome/test/data/firefox2_nss_mac/libfreebl3.dylib'
+removed `chrome/test/data/firefox2_nss_mac/libsoftokn3.dylib'
+removed directory: `chrome/test/data/firefox2_nss_mac'
+removed `google_update/google_update.gyp'
+removed `google_update/google_update_idl.idl'
+removed `google_update/README.chromium'
+removed `google_update/ondemand_updates.vcproj'
+removed directory: `google_update'
+removed `third_party/bsdiff/bsdiff.gyp'
+removed `third_party/bsdiff/LICENSE'
+removed `third_party/bsdiff/README.chromium'
+removed `third_party/bsdiff/mbsdiff.cc'
+removed directory: `third_party/bsdiff'
+removed `third_party/bspatch/mbspatch.h'
+removed `third_party/bspatch/LICENSE'
+removed `third_party/bspatch/mbspatch.cc'
+removed `third_party/bspatch/README.chromium'
+removed `third_party/bspatch/bspatch.gyp'
+removed directory: `third_party/bspatch'
+removed `third_party/fuzzymatch/SConstruct'
+removed `third_party/fuzzymatch/fuzzymatch.c'
+removed directory: `third_party/fuzzymatch'
+removed `third_party/icu/mac/icudt46l_dat.S'
+removed directory: `third_party/icu/mac'
+removed `third_party/lcov/README'
+removed `third_party/lcov/contrib/galaxy/README'
+removed `third_party/lcov/contrib/galaxy/genflat.pl'
+removed `third_party/lcov/contrib/galaxy/posterize.pl'
+removed `third_party/lcov/contrib/galaxy/gen_makefile.sh'
+removed `third_party/lcov/contrib/galaxy/CHANGES'
+removed `third_party/lcov/contrib/galaxy/conglomerate_functions.pl'
+removed directory: `third_party/lcov/contrib/galaxy'
+removed directory: `third_party/lcov/contrib'
+removed `third_party/lcov/rpm/lcov.spec'
+removed directory: `third_party/lcov/rpm'
+removed `third_party/lcov/LICENSE'
+removed `third_party/lcov/Makefile'
+removed `third_party/lcov/lcovrc'
+removed `third_party/lcov/bin/genpng'
+removed `third_party/lcov/bin/install.sh'
+removed `third_party/lcov/bin/genhtml'
+removed `third_party/lcov/bin/mcov'
+removed `third_party/lcov/bin/lcov'
+removed `third_party/lcov/bin/updateversion.pl'
+removed `third_party/lcov/bin/geninfo'
+removed `third_party/lcov/bin/gendesc'
+removed directory: `third_party/lcov/bin'
+removed `third_party/lcov/LICENCE'
+removed `third_party/lcov/README.chromium'
+removed `third_party/lcov/example/README'
+removed `third_party/lcov/example/iterate.h'
+removed `third_party/lcov/example/example.c'
+removed `third_party/lcov/example/descriptions.txt'
+removed `third_party/lcov/example/Makefile'
+removed `third_party/lcov/example/methods/iterate.c'
+removed `third_party/lcov/example/methods/gauss.c'
+removed directory: `third_party/lcov/example/methods'
+removed `third_party/lcov/example/gauss.h'
+removed directory: `third_party/lcov/example'
+removed `third_party/lcov/man/geninfo.1'
+removed `third_party/lcov/man/lcov.1'
+removed `third_party/lcov/man/genhtml.1'
+removed `third_party/lcov/man/genpng.1'
+removed `third_party/lcov/man/gendesc.1'
+removed `third_party/lcov/man/lcovrc.5'
+removed directory: `third_party/lcov/man'
+removed `third_party/lcov/descriptions.tests'
+removed `third_party/lcov/CHANGES'
+removed directory: `third_party/lcov'
+removed `third_party/ocmock/ocmock_extensions.mm'
+removed `third_party/ocmock/OCMock/OCMExceptionReturnValueProvider.m'
+removed `third_party/ocmock/OCMock/OCMArg.h'
+removed `third_party/ocmock/OCMock/OCMIndirectReturnValueProvider.m'
+removed `third_party/ocmock/OCMock/OCPartialMockObject.h'
+removed `third_party/ocmock/OCMock/NSNotificationCenter+OCMAdditions.h'
+removed `third_party/ocmock/OCMock/OCMConstraintTests.h'
+removed `third_party/ocmock/OCMock/OCMock_Prefix.pch'
+removed `third_party/ocmock/OCMock/OCMBlockCaller.h'
+removed `third_party/ocmock/OCMock/OCMockRecorderTests.m'
+removed `third_party/ocmock/OCMock/OCMockRecorderTests.h'
+removed `third_party/ocmock/OCMock/NSInvocation+OCMAdditions.h'
+removed `third_party/ocmock/OCMock/Test-Info.plist'
+removed `third_party/ocmock/OCMock/OCMockObject.m'
+removed `third_party/ocmock/OCMock/OCMRealObjectForwarder.m'
+removed `third_party/ocmock/OCMock/OCMock.xcodeproj/project.pbxproj'
+removed directory: `third_party/ocmock/OCMock/OCMock.xcodeproj'
+removed `third_party/ocmock/OCMock/OCObserverMockObjectTest.m'
+removed `third_party/ocmock/OCMock/OCMExceptionReturnValueProvider.h'
+removed `third_party/ocmock/OCMock/OCProtocolMockObject.m'
+removed `third_party/ocmock/OCMock/OCMockObjectTests.h'
+removed `third_party/ocmock/OCMock/OCMockRecorder.h'
+removed `third_party/ocmock/OCMock/NSInvocationOCMAdditionsTests.m'
+removed `third_party/ocmock/OCMock/NSMethodSignature+OCMAdditions.h'
+removed `third_party/ocmock/OCMock/NSInvocationOCMAdditionsTests.h'
+removed `third_party/ocmock/OCMock/NSInvocation+OCMAdditions.m'
+removed `third_party/ocmock/OCMock/OCMockObjectHamcrestTests.h'
+removed `third_party/ocmock/OCMock/Changes.txt'
+removed `third_party/ocmock/OCMock/OCMNotificationPoster.h'
+removed `third_party/ocmock/OCMock/OCMNotificationPoster.m'
+removed `third_party/ocmock/OCMock/OCMockObjectHamcrestTests.mm'
+removed `third_party/ocmock/OCMock/NSMethodSignature+OCMAdditions.m'
+removed `third_party/ocmock/OCMock/OCMock.h'
+removed `third_party/ocmock/OCMock/OCPartialMockObject.m'
+removed `third_party/ocmock/OCMock/OCObserverMockObjectTest.h'
+removed `third_party/ocmock/OCMock/version.plist'
+removed `third_party/ocmock/OCMock/OCMRealObjectForwarder.h'
+removed `third_party/ocmock/OCMock/OCMPassByRefSetter.m'
+removed `third_party/ocmock/OCMock/OCPartialMockRecorder.h'
+removed `third_party/ocmock/OCMock/OCMReturnValueProvider.h'
+removed `third_party/ocmock/OCMock/OCObserverMockObject.h'
+removed `third_party/ocmock/OCMock/OCMObserverRecorder.h'
+removed `third_party/ocmock/OCMock/OCMConstraint.h'
+removed `third_party/ocmock/OCMock/License.txt'
+removed `third_party/ocmock/OCMock/Frameworks/OCHamcrest.tar.bz2'
+removed directory: `third_party/ocmock/OCMock/Frameworks'
+removed `third_party/ocmock/OCMock/OCClassMockObject.h'
+removed `third_party/ocmock/OCMock/OCMPassByRefSetter.h'
+removed `third_party/ocmock/OCMock/OCMConstraintTests.m'
+removed `third_party/ocmock/OCMock/OCMIndirectReturnValueProvider.h'
+removed `third_party/ocmock/OCMock/OCMConstraint.m'
+removed `third_party/ocmock/OCMock/OCMockObject.h'
+removed `third_party/ocmock/OCMock/NSNotificationCenter+OCMAdditions.m'
+removed `third_party/ocmock/OCMock/OCMBlockCaller.m'
+removed `third_party/ocmock/OCMock/Info.plist'
+removed `third_party/ocmock/OCMock/OCMockRecorder.m'
+removed `third_party/ocmock/OCMock/OCMBoxedReturnValueProvider.m'
+removed `third_party/ocmock/OCMock/OCMArg.m'
+removed `third_party/ocmock/OCMock/OCClassMockObject.m'
+removed `third_party/ocmock/OCMock/OCObserverMockObject.m'
+removed directory: `third_party/ocmock/OCMock/English.lproj'
+removed `third_party/ocmock/OCMock/OCMReturnValueProvider.m'
+removed `third_party/ocmock/OCMock/OCProtocolMockObject.h'
+removed `third_party/ocmock/OCMock/OCMockObjectTests.m'
+removed `third_party/ocmock/OCMock/OCMBoxedReturnValueProvider.h'
+removed `third_party/ocmock/OCMock/OCPartialMockRecorder.m'
+removed `third_party/ocmock/OCMock/OCMObserverRecorder.m'
+removed directory: `third_party/ocmock/OCMock'
+removed `third_party/ocmock/ocmock_extensions.h'
+removed `third_party/ocmock/ocmock.gyp'
+removed `third_party/ocmock/gtest_support.mm'
+removed `third_party/ocmock/README.chromium'
+removed `third_party/ocmock/gtest_support.h'
+removed directory: `third_party/ocmock'
+removed `third_party/pyftpdlib/src/README'
+removed `third_party/pyftpdlib/src/test/test_ftpd.py'
+removed `third_party/pyftpdlib/src/test/keycert.pem'
+removed `third_party/pyftpdlib/src/test/test_contrib.py'
+removed directory: `third_party/pyftpdlib/src/test'
+removed `third_party/pyftpdlib/src/pyftpdlib/ftpserver.py'
+removed `third_party/pyftpdlib/src/pyftpdlib/contrib/authorizers.py'
+removed `third_party/pyftpdlib/src/pyftpdlib/contrib/handlers.py'
+removed `third_party/pyftpdlib/src/pyftpdlib/contrib/__init__.py'
+removed `third_party/pyftpdlib/src/pyftpdlib/contrib/filesystems.py'
+removed directory: `third_party/pyftpdlib/src/pyftpdlib/contrib'
+removed `third_party/pyftpdlib/src/pyftpdlib/__init__.py'
+removed directory: `third_party/pyftpdlib/src/pyftpdlib'
+removed `third_party/pyftpdlib/src/LICENSE'
+removed `third_party/pyftpdlib/src/INSTALL'
+removed `third_party/pyftpdlib/src/HISTORY'
+removed `third_party/pyftpdlib/src/setup.py'
+removed `third_party/pyftpdlib/src/CREDITS'
+removed `third_party/pyftpdlib/src/demo/throttled_ftpd.py'
+removed `third_party/pyftpdlib/src/demo/basic_ftpd.py'
+removed `third_party/pyftpdlib/src/demo/unix_ftpd.py'
+removed `third_party/pyftpdlib/src/demo/winnt_ftpd.py'
+removed `third_party/pyftpdlib/src/demo/anti_flood_ftpd.py'
+removed `third_party/pyftpdlib/src/demo/md5_ftpd.py'
+removed `third_party/pyftpdlib/src/demo/keycert.pem'
+removed `third_party/pyftpdlib/src/demo/unix_daemon.py'
+removed `third_party/pyftpdlib/src/demo/tls_ftpd.py'
+removed directory: `third_party/pyftpdlib/src/demo'
+removed `third_party/pyftpdlib/src/doc/rfcs-compliance.html'
+removed `third_party/pyftpdlib/src/doc/logo.png'
+removed `third_party/pyftpdlib/src/doc/install.html'
+removed `third_party/pyftpdlib/src/doc/index.html'
+removed `third_party/pyftpdlib/src/doc/faq.html'
+removed `third_party/pyftpdlib/src/doc/tutorial.html'
+removed `third_party/pyftpdlib/src/doc/release-notes.html'
+removed `third_party/pyftpdlib/src/doc/adoptions.lnk.html'
+removed `third_party/pyftpdlib/src/doc/roadmap.lnk.html'
+removed directory: `third_party/pyftpdlib/src/doc'
+removed directory: `third_party/pyftpdlib/src'
+removed `third_party/pyftpdlib/README.chromium'
+removed directory: `third_party/pyftpdlib'
+removed `third_party/simplejson/LICENSE.txt'
+removed `third_party/simplejson/__init__.py'
+removed `third_party/simplejson/jsonfilter.py'
+removed `third_party/simplejson/README.chromium'
+removed `third_party/simplejson/_speedups.c'
+removed `third_party/simplejson/decoder.py'
+removed `third_party/simplejson/encoder.py'
+removed `third_party/simplejson/scanner.py'
+removed directory: `third_party/simplejson'
+removed `tools/symsrc/pefile.py'
+removed `tools/symsrc/img_fingerprint.py'
+removed `tools/symsrc/pdb_fingerprint_from_img.py'
+removed `tools/symsrc/README.chromium'
+removed `tools/symsrc/COPYING-pefile'
+removed `tools/symsrc/source_index.py'
+removed directory: `tools/symsrc'
+removed `tools/site_compare/utils/__init__.py'
+removed `tools/site_compare/utils/browser_iterate.py'
+removed directory: `tools/site_compare/utils'
+removed `tools/site_compare/drivers/__init__.py'
+removed `tools/site_compare/drivers/win32/__init__.py'
+removed `tools/site_compare/drivers/win32/keyboard.py'
+removed `tools/site_compare/drivers/win32/mouse.py'
+removed `tools/site_compare/drivers/win32/windowing.py'
+removed directory: `tools/site_compare/drivers/win32'
+removed directory: `tools/site_compare/drivers'
+removed `tools/site_compare/commands/compare2.py'
+removed `tools/site_compare/commands/__init__.py'
+removed `tools/site_compare/commands/timeload.py'
+removed `tools/site_compare/commands/scrape.py'
+removed `tools/site_compare/commands/maskmaker.py'
+removed `tools/site_compare/commands/measure.py'
+removed directory: `tools/site_compare/commands'
+removed `tools/site_compare/command_line.py'
+removed `tools/site_compare/operators/equals.py'
+removed `tools/site_compare/operators/__init__.py'
+removed `tools/site_compare/operators/equals_with_mask.py'
+removed directory: `tools/site_compare/operators'
+removed `tools/site_compare/scrapers/firefox/firefox2.py'
+removed `tools/site_compare/scrapers/firefox/__init__.py'
+removed directory: `tools/site_compare/scrapers/firefox'
+removed `tools/site_compare/scrapers/__init__.py'
+removed `tools/site_compare/scrapers/chrome/chrome011010.py'
+removed `tools/site_compare/scrapers/chrome/chrome01970.py'
+removed `tools/site_compare/scrapers/chrome/__init__.py'
+removed `tools/site_compare/scrapers/chrome/chromebase.py'
+removed directory: `tools/site_compare/scrapers/chrome'
+removed `tools/site_compare/scrapers/ie/ie7.py'
+removed `tools/site_compare/scrapers/ie/__init__.py'
+removed directory: `tools/site_compare/scrapers/ie'
+removed directory: `tools/site_compare/scrapers'
+removed `tools/site_compare/site_compare.py'
+removed directory: `tools/site_compare'
+removed `tools/stats_viewer/stats_viewer.resx'
+removed `tools/stats_viewer/Resources.resx'
+removed `tools/stats_viewer/stats_viewer.csproj'
+removed `tools/stats_viewer/win32.cs'
+removed `tools/stats_viewer/program.cs'
+removed `tools/stats_viewer/stats_viewer.Designer.cs'
+removed `tools/stats_viewer/OpenDialog.Designer.cs'
+removed `tools/stats_viewer/stats_table.cs'
+removed `tools/stats_viewer/OpenDialog.resx'
+removed `tools/stats_viewer/Properties/Settings.Designer.cs'
+removed `tools/stats_viewer/Properties/AssemblyInfo.cs'
+removed `tools/stats_viewer/Properties/Resources.resx'
+removed `tools/stats_viewer/Properties/Settings.settings'
+removed `tools/stats_viewer/Properties/Resources.Designer.cs'
+removed directory: `tools/stats_viewer/Properties'
+removed `tools/stats_viewer/stats_viewer.cs'
+removed `tools/stats_viewer/Resources/kittenbackground.png'
+removed `tools/stats_viewer/Resources/kitten.png'
+removed directory: `tools/stats_viewer/Resources'
+removed `tools/stats_viewer/Resources.Designer.cs'
+removed `tools/stats_viewer/OpenDialog.cs'
+removed directory: `tools/stats_viewer'
+removed `tools/valgrind/valgrind.sh'
+removed `tools/valgrind/gtest_exclude/unit_tests.gtest.txt'
+removed `tools/valgrind/gtest_exclude/unit_tests.gtest-drmemory_win32.txt'
+removed `tools/valgrind/gtest_exclude/media_unittests.gtest_mac.txt'
+removed `tools/valgrind/gtest_exclude/ui_tests.gtest-tsan_mac.txt'
+removed `tools/valgrind/gtest_exclude/unit_tests.gtest_mac.txt'
+removed `tools/valgrind/gtest_exclude/ui_tests.gtest.txt'
+removed `tools/valgrind/gtest_exclude/ui_tests.gtest_linux.txt'
+removed `tools/valgrind/gtest_exclude/content_unittests.gtest_mac.txt'
+removed `tools/valgrind/gtest_exclude/gfx_unittests.gtest-tsan.txt'
+removed `tools/valgrind/gtest_exclude/base_unittests.gtest-asan.txt'
+removed `tools/valgrind/gtest_exclude/base_unittests.gtest-tsan_win32.txt'
+removed `tools/valgrind/gtest_exclude/remoting_unittests.gtest-tsan.txt'
+removed `tools/valgrind/gtest_exclude/printing_unittests.gtest-drmemory_win32.txt'
+removed `tools/valgrind/gtest_exclude/media_unittests.gtest-drmemory_win32.txt'
+removed `tools/valgrind/gtest_exclude/unit_tests.gtest-tsan_mac.txt'
+removed `tools/valgrind/gtest_exclude/base_unittests.gtest.txt'
+removed `tools/valgrind/gtest_exclude/net_unittests.gtest-tsan_mac.txt'
+removed `tools/valgrind/gtest_exclude/base_unittests.gtest-tsan_mac.txt'
+removed `tools/valgrind/gtest_exclude/ui_tests.gtest_mac.txt'
+removed `tools/valgrind/gtest_exclude/interactive_ui_tests.gtest.txt'
+removed `tools/valgrind/gtest_exclude/test_shell_tests.gtest.txt'
+removed `tools/valgrind/gtest_exclude/base_unittests.gtest-tsan.txt'
+removed `tools/valgrind/gtest_exclude/OWNERS'
+removed `tools/valgrind/gtest_exclude/net_unittests.gtest-tsan.txt'
+removed `tools/valgrind/gtest_exclude/net_unittests.gtest.txt'
+removed `tools/valgrind/gtest_exclude/suppressions.txt'
+removed `tools/valgrind/gtest_exclude/net_unittests.gtest_mac.txt'
+removed `tools/valgrind/gtest_exclude/net_unittests.gtest-drmemory_win32.txt'
+removed `tools/valgrind/gtest_exclude/base_unittests.gtest-drmemory_win32.txt'
+removed `tools/valgrind/gtest_exclude/net_unittests.gtest_linux.txt'
+removed `tools/valgrind/gtest_exclude/remoting_unittests.gtest-drmemory_win32.txt'
+removed `tools/valgrind/gtest_exclude/base_unittests.gtest_mac.txt'
+removed `tools/valgrind/gtest_exclude/unit_tests.gtest_linux.txt'
+removed `tools/valgrind/gtest_exclude/ui_tests.gtest-tsan.txt'
+removed `tools/valgrind/gtest_exclude/remoting_unittests.gtest-tsan_win32.txt'
+removed `tools/valgrind/gtest_exclude/ipc_tests.gtest-drmemory_win32.txt'
+removed `tools/valgrind/gtest_exclude/unit_tests.gtest-tsan.txt'
+removed `tools/valgrind/gtest_exclude/ipc_tests.gtest-tsan_win32.txt'
+removed `tools/valgrind/gtest_exclude/base_unittests.gtest_win32.txt'
+removed `tools/valgrind/gtest_exclude/crypto_unittests.gtest-tsan_win32.txt'
+removed `tools/valgrind/gtest_exclude/ipc_tests.gtest.txt'
+removed `tools/valgrind/gtest_exclude/net_unittests.gtest-tsan_win32.txt'
+removed `tools/valgrind/gtest_exclude/net_unittests.gtest-memcheck.txt'
+removed `tools/valgrind/gtest_exclude/safe_browsing_tests.gtest_mac.txt'
+removed `tools/valgrind/gtest_exclude/media_unittests.gtest-tsan_win32.txt'
+removed `tools/valgrind/gtest_exclude/media_unittests.gtest.txt'
+removed directory: `tools/valgrind/gtest_exclude'
+removed `tools/valgrind/drmemory.bat'
+removed `tools/valgrind/locate_valgrind.sh'
+removed `tools/valgrind/reliability/url_list.txt'
+removed directory: `tools/valgrind/reliability'
+removed `tools/valgrind/chrome_tests.sh'
+removed `tools/valgrind/OWNERS'
+removed `tools/valgrind/asan/asan_test.py'
+removed `tools/valgrind/asan/chrome_tests.sh'
+removed `tools/valgrind/asan/chrome_tests.py'
+removed `tools/valgrind/asan/asan_wrapper.sh'
+removed directory: `tools/valgrind/asan'
+removed `tools/valgrind/tsan/PRESUBMIT.py'
+removed `tools/valgrind/tsan/suppressions_mac.txt'
+removed `tools/valgrind/tsan/suppressions_win32.txt'
+removed `tools/valgrind/tsan/OWNERS'
+removed `tools/valgrind/tsan/ignores_win32.txt'
+removed `tools/valgrind/tsan/suppressions.txt'
+removed `tools/valgrind/tsan/ignores.txt'
+removed `tools/valgrind/tsan/ignores_mac.txt'
+removed directory: `tools/valgrind/tsan'
+removed `tools/valgrind/valgrind_test.py'
+removed `tools/valgrind/drmemory/suppressions.txt'
+removed directory: `tools/valgrind/drmemory'
+removed `tools/valgrind/chrome_tests.py'
+removed `tools/valgrind/chrome_tests.bat'
+removed `tools/valgrind/shard-all-tests.sh'
+removed `tools/valgrind/memcheck_analyze.py'
+removed `tools/valgrind/waterfall.sh'
+removed `tools/valgrind/memcheck/PRESUBMIT.py'
+removed `tools/valgrind/memcheck/suppressions_mac.txt'
+removed `tools/valgrind/memcheck/OWNERS'
+removed `tools/valgrind/memcheck/suppressions.txt'
+removed directory: `tools/valgrind/memcheck'
+removed `tools/valgrind/common.py'
+removed `tools/valgrind/tsan_analyze.py'
+removed `tools/valgrind/gdb_helper.py'
+removed `tools/valgrind/regrind.sh'
+removed `tools/valgrind/test_suppressions.py'
+removed `tools/valgrind/drmemory_analyze.py'
+removed `tools/valgrind/suppressions.py'
+removed directory: `tools/valgrind'
+removed `v8/test/cctest/test-bignum-dtoa.cc'
+removed `v8/test/cctest/test-hashmap.cc'
+removed `v8/test/cctest/test-regexp.cc'
+removed `v8/test/cctest/test-reloc-info.cc'
+removed `v8/test/cctest/test-strtod.cc'
+removed `v8/test/cctest/test-bignum.cc'
+removed `v8/test/cctest/test-spaces.cc'
+removed `v8/test/cctest/test-ast.cc'
+removed `v8/test/cctest/test-platform-linux.cc'
+removed `v8/test/cctest/test-serialize.cc'
+removed `v8/test/cctest/gay-precision.h'
+removed `v8/test/cctest/cctest.gyp'
+removed `v8/test/cctest/test-dictionary.cc'
+removed `v8/test/cctest/test-dtoa.cc'
+removed `v8/test/cctest/test-platform-win32.cc'
+removed `v8/test/cctest/test-assembler-x64.cc'
+removed `v8/test/cctest/test-fast-dtoa.cc'
+removed `v8/test/cctest/cctest.cc'
+removed `v8/test/cctest/test-assembler-arm.cc'
+removed `v8/test/cctest/test-deoptimization.cc'
+removed `v8/test/cctest/test-dataflow.cc'
+removed `v8/test/cctest/gay-precision.cc'
+removed `v8/test/cctest/test-profile-generator.cc'
+removed `v8/test/cctest/log-eq-of-logging-and-traversal.js'
+removed `v8/test/cctest/test-lock.cc'
+removed `v8/test/cctest/test-cpu-profiler.cc'
+removed `v8/test/cctest/test-accessors.cc'
+removed `v8/test/cctest/test-double.cc'
+removed `v8/test/cctest/test-lockers.cc'
+removed `v8/test/cctest/cctest.status'
+removed `v8/test/cctest/test-thread-termination.cc'
+removed `v8/test/cctest/test-platform-macos.cc'
+removed `v8/test/cctest/test-unbound-queue.cc'
+removed `v8/test/cctest/test-decls.cc'
+removed `v8/test/cctest/gay-fixed.cc'
+removed `v8/test/cctest/test-disasm-arm.cc'
+removed `v8/test/cctest/test-platform-tls.cc'
+removed `v8/test/cctest/test-sockets.cc'
+removed `v8/test/cctest/test-assembler-mips.cc'
+removed `v8/test/cctest/test-compiler.cc'
+removed `v8/test/cctest/test-platform-nullos.cc'
+removed `v8/test/cctest/test-fixed-dtoa.cc'
+removed `v8/test/cctest/test-assembler-ia32.cc'
+removed `v8/test/cctest/test-macro-assembler-x64.cc'
+removed `v8/test/cctest/test-weakmaps.cc'
+removed `v8/test/cctest/test-log.cc'
+removed `v8/test/cctest/gay-fixed.h'
+removed `v8/test/cctest/test-flags.cc'
+removed `v8/test/cctest/test-circular-queue.cc'
+removed `v8/test/cctest/test-disasm-ia32.cc'
+removed `v8/test/cctest/test-list.cc'
+removed `v8/test/cctest/test-mark-compact.cc'
+removed `v8/test/cctest/SConscript'
+removed `v8/test/cctest/test-liveedit.cc'
+removed `v8/test/cctest/test-heap-profiler.cc'
+removed `v8/test/cctest/test-utils.cc'
+removed `v8/test/cctest/test-disasm-mips.cc'
+removed `v8/test/cctest/testcfg.py'
+removed `v8/test/cctest/test-threads.cc'
+removed `v8/test/cctest/test-log-stack-tracer.cc'
+removed `v8/test/cctest/gay-shortest.cc'
+removed `v8/test/cctest/gay-shortest.h'
+removed `v8/test/cctest/test-version.cc'
+removed `v8/test/cctest/test-conversions.cc'
+removed `v8/test/cctest/test-strings.cc'
+removed `v8/test/cctest/test-func-name-inference.cc'
+removed `v8/test/cctest/test-diy-fp.cc'
+removed `v8/test/cctest/test-debug.cc'
+removed `v8/test/cctest/test-parsing.cc'
+removed `v8/test/cctest/test-api.cc'
+removed `v8/test/cctest/test-alloc.cc'
+removed `v8/test/cctest/test-heap.cc'
+removed `v8/test/cctest/cctest.h'
+removed directory: `v8/test/cctest'
+courgette/third_party/bsdiff_apply.cc
+courgette/third_party/paged_array.h
+courgette/third_party/.svn
+courgette/third_party/LICENCE
+courgette/third_party/bsdiff_create.cc
+courgette/third_party/bsdiff.h
+courgette/third_party/paged_array_unittest.cc
+courgette/third_party
+courgette/crc.cc
+courgette/encode_decode_unittest.cc
+courgette/difference_estimator_unittest.cc
+courgette/image_info.h
+courgette/image_info_unittest.cc
+courgette/assembly_program.h
+courgette/memory_allocator.cc
+courgette/difference_estimator.h
+courgette/streams.h
+courgette/win32_x86_patcher.h
+courgette/versioning_unittest.cc
+courgette/disassembler.cc
+courgette/bsdiff_memory_unittest.cc
+courgette/.svn
+courgette/base_test_unittest.h
+courgette/difference_estimator.cc
+courgette/courgette_minimal_tool.cc
+courgette/ensemble_apply.cc
+courgette/run_all_unittests.cc
+courgette/win32_x86_generator.h
+courgette/memory_monitor.cc
+courgette/region.h
+courgette/encoded_program.cc
+courgette/image_info.cc
+courgette/adjustment_method.h
+courgette/adjustment_method.cc
+courgette/ensemble.h
+courgette/streams_unittest.cc
+courgette/memory_allocator.h
+courgette/adjustment_method_2.cc
+courgette/testdata/setup1-setup2.v1.patch
+courgette/testdata/elf-32-2
+courgette/testdata/.svn
+courgette/testdata/en-US.dll
+courgette/testdata/setup2.exe
+courgette/testdata/elf-64
+courgette/testdata/setup1.exe
+courgette/testdata/elf-32-1
+courgette/testdata/pe-64.exe
+courgette/testdata
+courgette/simple_delta.h
+courgette/disassembler.h
+courgette/simple_delta.cc
+courgette/base_test_unittest.cc
+courgette/courgette_tool.cc
+courgette/crc.h
+courgette/streams.cc
+courgette/encoded_program_unittest.cc
+courgette/encoded_program.h
+courgette/courgette.h
+courgette/ensemble_create.cc
+courgette/adjustment_method_unittest.cc
+courgette/ensemble.cc
+courgette/DEPS
+courgette/encoded_program_fuzz_unittest.cc
+courgette/assembly_program.cc
+gles2_book/Chapter_13/.svn
+gles2_book/Chapter_13/Noise3D/Terrain.tga
+gles2_book/Chapter_13/Noise3D/Noise3D.rfx
+gles2_book/Chapter_13/Noise3D/.svn
+gles2_book/Chapter_13/Noise3D/NoiseVolume.dds
+gles2_book/Chapter_13/Noise3D/Terrain.3ds
+gles2_book/Chapter_13/Noise3D/generatenoise.c
+gles2_book/Chapter_13/Noise3D/SkyDome.3ds
+gles2_book/Chapter_13/Noise3D
+gles2_book/Chapter_13/PerFragmentLighting/.svn
+gles2_book/Chapter_13/PerFragmentLighting/Torus.3ds
+gles2_book/Chapter_13/PerFragmentLighting/Fieldstone.tga
+gles2_book/Chapter_13/PerFragmentLighting/FieldstoneBumpDOT3.tga
+gles2_book/Chapter_13/PerFragmentLighting/PerFragmentLighting.rfx
+gles2_book/Chapter_13/PerFragmentLighting
+gles2_book/Chapter_13/ProceduralTextures/CheckerAA.rfx
+gles2_book/Chapter_13/ProceduralTextures/checker.fs
+gles2_book/Chapter_13/ProceduralTextures/ScreenAlignedQuad.3ds
+gles2_book/Chapter_13/ProceduralTextures/Checker.rfx
+gles2_book/Chapter_13/ProceduralTextures/.svn
+gles2_book/Chapter_13/ProceduralTextures/checker.tiff
+gles2_book/Chapter_13/ProceduralTextures/ProceduralTextures.rfx
+gles2_book/Chapter_13/ProceduralTextures/checker.vs
+gles2_book/Chapter_13/ProceduralTextures
+gles2_book/Chapter_13/EnvironmentMapping/Sphere.3ds
+gles2_book/Chapter_13/EnvironmentMapping/.svn
+gles2_book/Chapter_13/EnvironmentMapping/Snow.dds
+gles2_book/Chapter_13/EnvironmentMapping/Fieldstone.tga
+gles2_book/Chapter_13/EnvironmentMapping/FieldstoneBumpDOT3.tga
+gles2_book/Chapter_13/EnvironmentMapping/Teapot.3ds
+gles2_book/Chapter_13/EnvironmentMapping/EnvironmentMapping.rfx
+gles2_book/Chapter_13/EnvironmentMapping
+gles2_book/Chapter_13/ParticleSystem/.svn
+gles2_book/Chapter_13/ParticleSystem/smoke.tga
+gles2_book/Chapter_13/ParticleSystem/ParticleSystem.c
+gles2_book/Chapter_13/ParticleSystem
+gles2_book/Chapter_13/ProjectiveSpotlight/Terrain.tga
+gles2_book/Chapter_13/ProjectiveSpotlight/.svn
+gles2_book/Chapter_13/ProjectiveSpotlight/Corona.tga
+gles2_book/Chapter_13/ProjectiveSpotlight/Terrain.3ds
+gles2_book/Chapter_13/ProjectiveSpotlight/ProjectiveSpotlight.rfx
+gles2_book/Chapter_13/ProjectiveSpotlight
+gles2_book/Chapter_13/PostProcess/Cube.x
+gles2_book/Chapter_13/PostProcess/ScreenAlignedQuad.3ds
+gles2_book/Chapter_13/PostProcess/.svn
+gles2_book/Chapter_13/PostProcess/PostProcess.rfx
+gles2_book/Chapter_13/PostProcess/Fieldstone.tga
+gles2_book/Chapter_13/PostProcess/Car.3ds
+gles2_book/Chapter_13/PostProcess
+gles2_book/Chapter_13
+gles2_book/.svn
+gles2_book/Chapter_2/.svn
+gles2_book/Chapter_2/Hello_Triangle/.svn
+gles2_book/Chapter_2/Hello_Triangle/Hello_Triangle.h
+gles2_book/Chapter_2/Hello_Triangle/Hello_Triangle.c
+gles2_book/Chapter_2/Hello_Triangle
+gles2_book/Chapter_2
+gles2_book/LICENSE
+gles2_book/Common/Source/esTransform.c
+gles2_book/Common/Source/esUtil.c
+gles2_book/Common/Source/.svn
+gles2_book/Common/Source/esShapes.c
+gles2_book/Common/Source/esShader.c
+gles2_book/Common/Source
+gles2_book/Common/.svn
+gles2_book/Common/Include/esUtil.h
+gles2_book/Common/Include/.svn
+gles2_book/Common/Include
+gles2_book/Common
+gles2_book/Chapter_11/Multisample/.svn
+gles2_book/Chapter_11/Multisample/Multisample.c
+gles2_book/Chapter_11/Multisample
+gles2_book/Chapter_11/.svn
+gles2_book/Chapter_11/Stencil_Test/Stencil_Test.h
+gles2_book/Chapter_11/Stencil_Test/Stencil_Test.c
+gles2_book/Chapter_11/Stencil_Test/.svn
+gles2_book/Chapter_11/Stencil_Test
+gles2_book/Chapter_11
+gles2_book/Chapter_10/RM_ClipPlane/Sphere.3ds
+gles2_book/Chapter_10/RM_ClipPlane/.svn
+gles2_book/Chapter_10/RM_ClipPlane/RM_ClipPlane.rfx
+gles2_book/Chapter_10/RM_ClipPlane
+gles2_book/Chapter_10/.svn
+gles2_book/Chapter_10/RM_AlphaTest/.svn
+gles2_book/Chapter_10/RM_AlphaTest/Torus.3ds
+gles2_book/Chapter_10/RM_AlphaTest/RM_AlphaTest.rfx
+gles2_book/Chapter_10/RM_AlphaTest/cloud.tga
+gles2_book/Chapter_10/RM_AlphaTest
+gles2_book/Chapter_10/RM_LinearFog/Terrain.tga
+gles2_book/Chapter_10/RM_LinearFog/.svn
+gles2_book/Chapter_10/RM_LinearFog/Terrain.3ds
+gles2_book/Chapter_10/RM_LinearFog/LinearFog.rfx
+gles2_book/Chapter_10/RM_LinearFog
+gles2_book/Chapter_10/MultiTexture/basemap.tga
+gles2_book/Chapter_10/MultiTexture/.svn
+gles2_book/Chapter_10/MultiTexture/lightmap.tga
+gles2_book/Chapter_10/MultiTexture/MultiTexture.c
+gles2_book/Chapter_10/MultiTexture
+gles2_book/Chapter_10
+gles2_book/Chapter_15/Hello_Triangle_KD/.svn
+gles2_book/Chapter_15/Hello_Triangle_KD/Hello_Triangle_KD.c
+gles2_book/Chapter_15/Hello_Triangle_KD
+gles2_book/Chapter_15/.svn
+gles2_book/Chapter_15
+gles2_book/Chapter_8/.svn
+gles2_book/Chapter_8/Simple_VertexShader/Simple_VertexShader.h
+gles2_book/Chapter_8/Simple_VertexShader/.svn
+gles2_book/Chapter_8/Simple_VertexShader/Simple_VertexShader.c
+gles2_book/Chapter_8/Simple_VertexShader
+gles2_book/Chapter_8
+gles2_book/Chapter_9/TextureWrap/.svn
+gles2_book/Chapter_9/TextureWrap/TextureWrap.h
+gles2_book/Chapter_9/TextureWrap/TextureWrap.c
+gles2_book/Chapter_9/TextureWrap
+gles2_book/Chapter_9/.svn
+gles2_book/Chapter_9/MipMap2D/.svn
+gles2_book/Chapter_9/MipMap2D/MipMap2D.c
+gles2_book/Chapter_9/MipMap2D/MipMap2D.h
+gles2_book/Chapter_9/MipMap2D
+gles2_book/Chapter_9/Simple_TextureCubemap/.svn
+gles2_book/Chapter_9/Simple_TextureCubemap/Simple_TextureCubemap.h
+gles2_book/Chapter_9/Simple_TextureCubemap/Simple_TextureCubemap.c
+gles2_book/Chapter_9/Simple_TextureCubemap
+gles2_book/Chapter_9/Simple_Texture2D/.svn
+gles2_book/Chapter_9/Simple_Texture2D/Simple_Texture2D.h
+gles2_book/Chapter_9/Simple_Texture2D/Simple_Texture2D.c
+gles2_book/Chapter_9/Simple_Texture2D
+gles2_book/Chapter_9
+gles2_book/README.TXT
+bzip2/README
+bzip2/randtable.c
+bzip2/huffman.c
+bzip2/compress.c
+bzip2/crctable.c
+bzip2/.svn
+bzip2/blocksort.c
+bzip2/LICENSE
+bzip2/bzlib.h
+bzip2/bzlib_private.h
+bzip2/bzlib.c
+bzip2/decompress.c
+libjpeg/jcapimin.c
+libjpeg/jdmaster.c
+libjpeg/jcmaster.c
+libjpeg/README
+libjpeg/jquant2.c
+libjpeg/jddctmgr.c
+libjpeg/jcparam.c
+libjpeg/jdatasrc.c
+libjpeg/jcsample.c
+libjpeg/jdapimin.c
+libjpeg/jcdctmgr.c
+libjpeg/jchuff.c
+libjpeg/jdatadst.c
+libjpeg/jidctfst.c
+libjpeg/jversion.h
+libjpeg/jdct.h
+libjpeg/.svn
+libjpeg/jutils.c
+libjpeg/jccoefct.c
+libjpeg/jerror.c
+libjpeg/jcomapi.c
+libjpeg/jpegint.h
+libjpeg/jmemsys.h
+libjpeg/jdhuff.h
+libjpeg/jdcoefct.c
+libjpeg/LICENSE
+libjpeg/jcphuff.c
+libjpeg/jmemmgr.c
+libjpeg/jmemnobs.c
+libjpeg/jdpostct.c
+libjpeg/jccolor.c
+libjpeg/jdinput.c
+libjpeg/jidctint.c
+libjpeg/jerror.h
+libjpeg/jcinit.c
+libjpeg/jdcolor.c
+libjpeg/jdsample.c
+libjpeg/jchuff.h
+libjpeg/jdphuff.c
+libjpeg/jquant1.c
+libjpeg/jcprepct.c
+libjpeg/jdmarker.c
+libjpeg/jdapistd.c
+libjpeg/jdmainct.c
+libjpeg/jdmerge.c
+libjpeg/jcmainct.c
+libjpeg/jmorecfg.h
+libjpeg/jidctred.c
+libjpeg/jidctflt.c
+libjpeg/jfdctfst.c
+libjpeg/jconfig.h
+libjpeg/jcmarker.c
+libjpeg/jdhuff.c
+libjpeg/jpeglibmangler.h
+libjpeg/jfdctflt.c
+libjpeg/jfdctint.c
+libjpeg/jpeglib.h
+libjpeg/jcapistd.c
+libjpeg/jinclude.h
+libpng/pngpread.c
+libpng/pngerror.c
+libpng/png.c
+libpng/README
+libpng/png.h
+libpng/pngrutil.c
+libpng/pngusr.h
+libpng/pngrio.c
+libpng/.svn
+libpng/pngset.c
+libpng/pnggccrd.c
+libpng/pngmem.c
+libpng/LICENSE
+libpng/pngwutil.c
+libpng/pngread.c
+libpng/pngwrite.c
+libpng/pngtrans.c
+libpng/pngget.c
+libpng/pngwtran.c
+libpng/pngwio.c
+libpng/pngrtran.c
+libpng/pngvcrd.c
+libpng/pngconf.h
+libxslt/libxslt.pc.in
+libxslt/mac/.svn
+libxslt/mac/config.h
+libxslt/mac
+libxslt/.svn
+libxslt/linux/.svn
+libxslt/linux/libxslt/xsltconfig.h
+libxslt/linux/libxslt/.svn
+libxslt/linux/libxslt/xsltwin32config.h
+libxslt/linux/libxslt
+libxslt/linux/xslt-config
+libxslt/linux/libexslt/.svn
+libxslt/linux/libexslt/exsltconfig.h
+libxslt/linux/libexslt
+libxslt/linux/config.h
+libxslt/linux
+libxslt/libxslt/numbersInternals.h
+libxslt/libxslt/xslt.h
+libxslt/libxslt/functions.h
+libxslt/libxslt/attributes.c
+libxslt/libxslt/extensions.c
+libxslt/libxslt/xsltconfig.h.in
+libxslt/libxslt/namespaces.c
+libxslt/libxslt/security.c
+libxslt/libxslt/templates.h
+libxslt/libxslt/namespaces.h
+libxslt/libxslt/xsltconfig.h
+libxslt/libxslt/.svn
+libxslt/libxslt/libxslt.h
+libxslt/libxslt/xsltutils.c
+libxslt/libxslt/attributes.h
+libxslt/libxslt/keys.c
+libxslt/libxslt/variables.c
+libxslt/libxslt/triodef.h
+libxslt/libxslt/transform.h
+libxslt/libxslt/security.h
+libxslt/libxslt/xsltutils.h
+libxslt/libxslt/attrvt.c
+libxslt/libxslt/xsltlocale.h
+libxslt/libxslt/imports.h
+libxslt/libxslt/xsltwin32config.h.in
+libxslt/libxslt/extra.c
+libxslt/libxslt/functions.c
+libxslt/libxslt/extensions.h
+libxslt/libxslt/preproc.c
+libxslt/libxslt/transform.c
+libxslt/libxslt/variables.h
+libxslt/libxslt/xslt.c
+libxslt/libxslt/xsltlocale.c
+libxslt/libxslt/numbers.c
+libxslt/libxslt/templates.c
+libxslt/libxslt/imports.c
+libxslt/libxslt/documents.c
+libxslt/libxslt/trio.h
+libxslt/libxslt/xsltInternals.h
+libxslt/libxslt/keys.h
+libxslt/libxslt/pattern.c
+libxslt/libxslt/extra.h
+libxslt/libxslt/documents.h
+libxslt/libxslt/pattern.h
+libxslt/libxslt/preproc.h
+libxslt/libxslt/win32config.h
+libxslt/libxslt/xsltwin32config.h
+libxslt/libxslt/xsltexports.h
+libxslt/libxslt
+libxslt/acconfig.h
+libxslt/build/.svn
+libxslt/build/generate-win32-headers.bat
+libxslt/build
+libxslt/xsltConf.sh.in
+libxslt/libexslt/common.c
+libxslt/libexslt/strings.c
+libxslt/libexslt/exsltconfig.h.in
+libxslt/libexslt/exslt.h
+libxslt/libexslt/.svn
+libxslt/libexslt/libexslt.h
+libxslt/libexslt/exsltconfig.h
+libxslt/libexslt/crypto.c
+libxslt/libexslt/saxon.c
+libxslt/libexslt/functions.c
+libxslt/libexslt/date.c
+libxslt/libexslt/exsltexports.h
+libxslt/libexslt/dynamic.c
+libxslt/libexslt/exslt.c
+libxslt/libexslt/math.c
+libxslt/libexslt/sets.c
+libxslt/libexslt
+libxslt/Copyright
+libxslt/compile
+libxslt/xslt-config.in
+libxslt/INSTALL
+libxslt/COPYING
+libxslt/libxslt.m4
+libxslt/AUTHORS
+libxslt/win32/.svn
+libxslt/win32/Makefile.mingw
+libxslt/win32/configure.js
+libxslt/win32/Makefile
+libxslt/win32/libxslt.def.src
+libxslt/win32/config.msvc
+libxslt/win32/defgen.xsl
+libxslt/win32/Readme.txt
+libxslt/win32/libexslt.def.src
+libxslt/win32/Makefile.msvc
+libxslt/win32
+libxslt/config.guess
+libxslt/config.sub
+libxslt/libexslt.pc.in
