@@ -1,0 +1,46 @@
+--- a/src/build/linux/system.gyp
++++ b/src/build/linux/system.gyp
+@@ -468,6 +468,23 @@
+       },
+     },
+     {
++      'target_name': 'glew',
++      'type': 'settings',
++      'conditions': [
++        ['_toolset=="target"', {
++          'link_settings': {
++            'ldflags': [
++              '<!@(pkg-config --libs-only-L --libs-only-other glewmx)',
++            ],
++            'libraries': [
++              '<!@(<(pkg-config) --libs-only-l glewmx)',
++              '-lGL',
++              '-lX11',
++            ],
++          },
++      }]]
++    },
++    {
+       # TODO(satorux): Remove this once dbus-glib clients are gone.
+       'target_name': 'dbus-glib',
+       'type': 'none',
+--- a/src/chrome/chrome.gyp
++++ b/src/chrome/chrome.gyp
+@@ -460,6 +460,7 @@
+         '../base/base.gyp:base',
+         '../content/content.gyp:content_utility',
+         '../skia/skia.gyp:skia',
++        '../build/linux/system.gyp:glew',
+       ],
+       'sources': [
+         'utility/chrome_content_utility_client.cc',
+--- a/src/build/common.gypi
++++ b/src/build/common.gypi
+@@ -1064,6 +1064,7 @@
+       ['enable_gpu==1', {
+         'defines': [
+           'ENABLE_GPU=1',
++          'GLEW_MX',
+         ],
+       }],
+       ['use_openssl==1', {
